@@ -40,6 +40,7 @@ def house(size):
   
 # Quadratic Equations
 import math
+import random
 
 def solve(a,b,c):
     d = b*b-4*a*c
