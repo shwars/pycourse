@@ -30,4 +30,4 @@ In this course we will use a technology called **Jupyter Notebooks**. Notebooks 
 
 ## Intro Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BJ1gAnJiPJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[<img src="https://img.youtube.com/vi/BJ1gAnJiPJo/maxresdefault.jpg" width="50%">](https://youtu.be/BJ1gAnJiPJo)
