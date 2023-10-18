@@ -22,13 +22,14 @@ In this course we will use a technology called **Jupyter Notebooks**. Notebooks 
 
 | Unit | Link |
 |------|------|
-| [Introduction to Programming](english/1_Introduction.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F1_Introduction.ipynb) |
-| [Functions](english/2_Functions.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F2_Functions.ipynb) |
-| [Conditional Operators](english/3_Conditional.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F3_Conditional.ipynb) |
-| [Loops](english/4_Loops.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F4_Loops.ipynb) |
-| [Nested Loops](english/5_NestedLoops.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F5_NestedLoops.ipynb) |
-| [While Loop](english/6_WhileLoop.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F6_WhileLoop.ipynb) |
-| [Recursion and Beauty of Programming](english/7_RecursionAndBeauty.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F7_RecursionAndBeauty.ipynb) | 
+| [Introduction to Programming](english/1_Introduction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/1_Introduction.ipynb)
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F1_Introduction.ipynb) |
+| [Functions](english/2_Functions.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/2_Functions.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F2_Functions.ipynb) |
+| [Conditional Operators](english/3_Conditional.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/3_Conditional.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F3_Conditional.ipynb) |
+| [Loops](english/4_Loops.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/4_Loops.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F4_Loops.ipynb) |
+| [Nested Loops](english/5_NestedLoops.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/5_NestedLoops.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F5_NestedLoops.ipynb) |
+| [While Loop](english/6_WhileLoop.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/6_WhileLoop.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F6_WhileLoop.ipynb) |
+| [Recursion and Beauty of Programming](english/7_RecursionAndBeauty.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/7_RecursionAndBeauty.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F7_RecursionAndBeauty.ipynb) | 
 
 ## Intro Video
 
