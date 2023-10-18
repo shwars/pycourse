@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD)
 
-> **This course is also available in [Russian](README.ru.md)**. However, Russian translation is not completed at the moment, so use it at your own risk.
+> **This course is also available in [Russian](./README.ru.md)**. However, Russian translation is not completed at the moment, so use it at your own risk.
 
 Welcome to an Introduction to Python with Turtle Graphics and Fractals! In this course, we will introduce you to main concepts of **Computer Programming** using one of the most popular programming languages today - **Python**. You will also learn to make computer  draw nice pictures - like the one below:
 
@@ -22,8 +22,7 @@ In this course we will use a technology called **Jupyter Notebooks**. Notebooks 
 
 | Unit | Link |
 |------|------|
-| [Introduction to Programming](english/1_Introduction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/1_Introduction.ipynb)
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F1_Introduction.ipynb) |
+| [Introduction to Programming](english/1_Introduction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/1_Introduction.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F1_Introduction.ipynb) |
 | [Functions](english/2_Functions.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/2_Functions.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F2_Functions.ipynb) |
 | [Conditional Operators](english/3_Conditional.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/3_Conditional.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F3_Conditional.ipynb) |
 | [Loops](english/4_Loops.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/pycourse/blob/master/english/4_Loops.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/pycourse/HEAD?filepath=english%2F4_Loops.ipynb) |
